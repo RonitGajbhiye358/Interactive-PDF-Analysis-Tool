@@ -1,6 +1,6 @@
 # Interactive PDF Analysis Tool
 
-[Demo Video]https://youtu.be/9i1_vJh-558
+[Demo Video](https://youtu.be/9i1_vJh-558)
 
 ## Table of Contents
 
@@ -72,7 +72,6 @@ Ensure you have Python 3.7 or higher installed on your machine.
 ## Demo Video
 
 [full functional demo](https://youtu.be/9i1_vJh-558)
-*Demo video*
 
 ## Technologies Used
 
