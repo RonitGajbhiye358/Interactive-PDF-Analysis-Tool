@@ -1,6 +1,6 @@
 # Interactive PDF Analysis Tool
 
-![Demo Video](https://youtu.be/9i1_vJh-558)
+[Demo Video]https://youtu.be/9i1_vJh-558
 
 ## Table of Contents
 
@@ -71,7 +71,7 @@ Ensure you have Python 3.7 or higher installed on your machine.
 
 ## Demo Video
 
-![full functional demo](https://youtu.be/9i1_vJh-558)
+[full functional demo](https://youtu.be/9i1_vJh-558)
 *Demo video*
 
 ## Technologies Used
@@ -100,6 +100,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 **Ronit Gajbhiye**
 
 - GitHub: [RonitGajbhiye358](https://github.com/RonitGajbhiye358)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ronitgajbhiye/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ronitgajbhiye/)
 
 Feel free to contact me if you have any questions or suggestions!
